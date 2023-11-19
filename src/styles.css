@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-brand span {
+    color: #007bff;
+  }
+
+ 
+
+.card-title {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  .card-footer {
+    background-color: #f7f7f7;
+    border-top: 1px solid #eaeaea;
+  }
+  
+
+
+  
