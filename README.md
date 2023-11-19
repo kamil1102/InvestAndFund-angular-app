@@ -1,8 +1,8 @@
 # InvestAndFundAngularApp
 
-This is a simple web app with 3 components Home, Blog, About and 2 services BlogService, CompanyService. 
-User can navigate between components some mock data from the service is dispalyed to show data flow.
-Services include methods for get mock data and fetching real data from the backend (they are not used just to demonstrate where they could be placed. 
+This is a simple web app with 3 components Home, Blog, and About and 2 services BlogService, and CompanyService. 
+Users can navigate between components some mock data from the service is displayed to show data flow.
+Services include methods for getting mock data and fetching real data from the backend (those are not used just to demonstrate where they could be placed). 
   
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
